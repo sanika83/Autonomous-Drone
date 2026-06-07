@@ -1,0 +1,11 @@
+autonomous-drone/
+├── README.md          
+├── requirements.txt   
+├── .gitignore         
+├── src/
+│   └── main.py        
+├── docs/
+│   └── report.pdf     
+└── results/
+    ├── before_obstacle.jpg  
+    └── after_obstacle.jpg   
